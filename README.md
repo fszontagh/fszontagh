@@ -7,7 +7,7 @@
 - 🐧 I’m a Linux System Engineer - just a Linux enthusiast  
 - 🧑‍💼 I work in web development and hosting as well  
 - 🌱 I’m currently learning C++  
-- 🔭 I’m currently working on Stable Diffusion GUI - a multi-OS desktop GUI for Stable Diffusion written in C++  
+- 🔭 I’m currently working on [Stable Diffusion GUI](https://github.com/fszontagh/sd.cpp.gui.wx) - a multi-OS desktop GUI for Stable Diffusion written in C++  
 - 👔 I’m looking for a job  
 
 ---
